@@ -10,4 +10,4 @@ To give businesses the technology they need and deserve to survive in competitiv
 
 [Gregory Langlais, Co-Founder](http://gregl83.com)
 
-Corinne Schlachter, Co-Founder
+[Corinne Schlachter, Co-Founder](https://www.linkedin.com/in/corinneschlachter)
