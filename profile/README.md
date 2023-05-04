@@ -15,3 +15,7 @@ Visit [bixod.com](https://bixod.com) for articles and consultations.
 [Gregory Langlais, Co-Founder](http://gregl83.com)
 
 [Corinne Schlachter, Co-Founder](https://www.linkedin.com/in/corinneschlachter)
+
+## Consult
+
+[Contact Us](https://bixod.com/contact)
