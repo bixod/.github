@@ -16,6 +16,10 @@ To give businesses the technology they need to thrive competitive markets.
 
 Visit [bixod.com](https://bixod.com) for articles.
 
-## Consult
+## Follow Us
+
+- (https://twitter.com/bixod_inc)[Twitter]
+
+## Start Consultation
 
 [Contact Us](https://bixod.com/contact) for consultations.
