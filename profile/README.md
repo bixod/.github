@@ -18,7 +18,7 @@ Visit [bixod.com](https://bixod.com) for articles.
 
 ## Follow Us
 
-- [https://twitter.com/bixod_inc](Twitter)
+- [Twitter](https://twitter.com/bixod_inc)
 
 ## Start Consultation
 
