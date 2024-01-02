@@ -1,10 +1,10 @@
 # bixod
 
-Big Tech Meets Enterprise Businesses.
+Big-Tech Meets Enterprise Businesses.
 
 ## The Mission 
 
-To give businesses the technology they need in order to thrive in competitive markets.
+To give businesses the technology they need to thrive in competitive markets.
 
 ## About Us
 
@@ -14,12 +14,12 @@ To give businesses the technology they need in order to thrive in competitive ma
 
 ## Website
 
-Visit [bixod.com](https://bixod.com) for articles.
+Visit [bixod.com](https://bixod.com) to learn more about us and emerging technologies.
 
 ## Follow Us
 
 - [Twitter](https://twitter.com/bixod_inc)
 
-## Start Consultation
+## Need Help?
 
 [Contact Us](https://bixod.com/contact) for consultations.
