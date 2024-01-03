@@ -4,7 +4,7 @@ Big-Tech Meets Enterprise Businesses.
 
 ## The Mission 
 
-To give businesses the technology they need to thrive in competitive markets.
+To give businesses technologies needed to thrive in competitive markets.
 
 ## About Us
 
