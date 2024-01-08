@@ -8,9 +8,9 @@ To give businesses technologies needed to thrive in competitive markets.
 
 ## About Us
 
-[Gregory Langlais, Co-Founder](http://gregl83.com)
+[Gregory Langlais, Co-Founder](http://bixod.com/people/gregory-langlais)
 
-[Corinne Schlachter, Co-Founder](https://www.linkedin.com/in/corinneschlachter)
+[Corinne Schlachter, Co-Founder](https://bixod.com/people/corinne-schlachter)
 
 ## Website
 
