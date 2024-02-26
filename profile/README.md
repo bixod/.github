@@ -1,10 +1,10 @@
 # bixod
 
-Big-Tech Meets Enterprise Businesses.
+Machine Learning Delivered
 
 ## The Mission 
 
-To give businesses technologies needed to thrive in competitive markets.
+À la carte model consulting to productionalize models for businesses.
 
 ## About Us
 
