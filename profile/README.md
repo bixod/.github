@@ -6,7 +6,7 @@ Machine Learning Delivered
 
 À la carte model consulting to productionalize models for businesses.
 
-## About Us
+## Founders
 
 [Gregory Langlais, Co-Founder](http://bixod.com/people/gregory-langlais)
 
@@ -14,7 +14,7 @@ Machine Learning Delivered
 
 ## Website
 
-Visit [bixod.com](https://bixod.com) to learn more about us and emerging technologies.
+Visit [bixod.com](https://bixod.com) to learn more about us and our services.
 
 ## Follow Us
 
@@ -22,4 +22,4 @@ Visit [bixod.com](https://bixod.com) to learn more about us and emerging technol
 
 ## Need Help?
 
-[Contact Us](https://bixod.com/contact) for consultations.
+Tell us about your mission for a [consultation](https://bixod.com/consult).
