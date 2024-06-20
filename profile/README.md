@@ -22,4 +22,4 @@ Visit [bixod.com](https://bixod.com) to learn more about us and our services.
 
 ## Need Help?
 
-Tell us about your mission for a [consultation](https://bixod.com/consult).
+[Tell us about your mission!](https://bixod.com/consult)
