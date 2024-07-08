@@ -4,7 +4,7 @@ Machine Learning Delivered
 
 ## The Mission 
 
-À la carte model consulting to productionalize models for businesses.
+À la carte model services focussing on the productionisation of AI business models.
 
 ## Founders
 
