@@ -4,7 +4,7 @@ Machine Learning Delivered
 
 ## The Mission 
 
-À la carte model services focussing on the productionisation of AI business models.
+À la carte model services focussed on productionisation of artificial intelligence.
 
 ## Founders
 
