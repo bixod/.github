@@ -1,10 +1,10 @@
 # bixod
 
-Machine Learning Delivered
+À la carte model services.
 
 ## The Mission 
 
-À la carte model services focussed on productionisation of artificial intelligence.
+Productionisation of artificial intelligence models.
 
 ## Founders
 
