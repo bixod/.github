@@ -1,10 +1,10 @@
 # bixod
 
-À la carte model services.
+À La Carte Data & AI Services.
 
 ## The Mission 
 
-Productionisation of artificial intelligence models.
+Help businesses put machine learning to work: improving decisions, automating tasks, and building smarter applications. Our à la carte services cover application design, infrastructure, data preparation, model development and training, and production automation. Choose the expertise your project needs, whether that’s one stage or the full lifecycle.
 
 ## Founders
 
